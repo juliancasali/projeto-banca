@@ -1,4 +1,4 @@
-# 🎓 Unisinos - Banca Fácil (Projeto Fullstack com Docker: React + Express + MongoDB)
+# 🎓 Unisinos - Banca Fácil (Projeto Fullstack: React + Express + MongoDB)
 
 Sistema web para gerenciamento de bancas de TCC da Universidade do Vale do Rio dos Sinos (Unisinos).  
 Esta é a API RESTful responsável por fornecer os endpoints para criação, atualização, consulta e exclusão dos dados relacionados às bancas, professores, usuários, entre outros recursos do sistema.
@@ -18,19 +18,30 @@ Este é um projeto fullstack containerizado usando:
 - **Orquestração:** Docker Compose
 
 ## 🚀 Como iniciar o projeto
+### 📋 Pré-requisitos
 
+O que você precisa para instalar o projeto:
+
+- Git
+- Node.js (ou outra tecnologia usada)
+- npm ou yarn
+- 
+### 🔧 Instalação
 1. **Clone o repositório:**
 
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/juliancasali/projeto-banca.git
+cd projeto-banca
 
-2. Suba os serviços com Docker:
-- docker-compose up --build
+2. Instale dependecia
+   npm instal
 
-3. Acesse no navegador:
-- Frontend: http://localhost
+3. Inicie o projeto:
+   npm start
+
+5. Acesse no navegador:
+- Frontend: http://localhost:5173
 - Backend: http://localhost:5000
-- MongoDB: disponível internamente via mongodb://mongo-start:27017
+- MongoDB: disponível internamente via mongodb://localhost:27017
   
 👥 Desenvolvido por
 Projeto desenvolvido no estágio obrigatório na Universidade do Vale do Rio dos Sinos (Unisinos) por Julian Casali.
