@@ -50,8 +50,8 @@ O **Banca Fácil** é uma aplicação desenvolvida para facilitar o processo de 
 ## 🔧 Instalação e Execução
 
 ### 1. Clone o repositório
-- git clone https://github.com/kevin-kuhn/tcc-board.git
-- cd tcc-board
+- git clone https://github.com/juliancasali/projeto-banca.git
+- cd projeto-banca
 
 ### 2. Instale as dependências
 - npm install
@@ -62,7 +62,7 @@ O **Banca Fácil** é uma aplicação desenvolvida para facilitar o processo de 
 A aplicação estará disponível em http://localhost:5173
 
 - As credenciais de teste são
-	- Email: professor@unisinos.com
+	- Email: juliancasalii@gmail.com
 	- Senha: 123456
 
 ## 📦 Scripts Disponíveis
