@@ -46,15 +46,15 @@ Este back end foi projetado para ser escalável e seguro, oferecendo uma interfa
 ## 🔧 Instalação e Execução
 
 ### 1. Clone o repositório
-git clone https://github.com/juliancasali/app-banca
-cd app-banca
+git clone https://github.com/juliancasali/projeto-banca
+cd projeto-banca
 
 ### 2. Instale as dependências
 npm install
 
 ### 3. Configure as variáveis de ambiente
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/bancafacil
+MONGO_URI=mongodb://localhost:27017/app-banca
 NODE_ENV=development
 
 ### 4. Execute o projeto
