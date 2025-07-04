@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+	--color-primary: #19236f;
+	--color-primary-foreground: #ffff;
+	--color-secondary: #ffff;
+	--color-input: #f0f0f0;
+	--color-background: #f0f0f0;
+	--color-card: #ffff;
+	--color-text: #000000;
+	--color-text-muted: #666666;
+	--color-text-muted: #666666;
+	--color-text-muted: #666666;
+	--color-popover: #ffff;
+	--color-destructive: #ff0000;
+	--color-destructive-foreground: #ffff;
+	--color-success: #00ff00;
+	--color-success-foreground: #ffff;
+	--color-warning: #ffff00;
+	--color-warning-foreground: #ffff;
+	--color-info: #0000ff;
+	--color-info-foreground: #ffff;
+	--color-border: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-border-muted: #e5e7eb;
+	--color-accent: #f9fafb;
+	--color-ring: #19236f;
+}
+
+@layer utilities {
+  @media (min-width: 480px) {
+    .xs\:flex-row {
+      flex-direction: row;
+    }
+    .xs\:hidden {
+      display: none;
+    }
+    .xs\:inline {
+      display: inline;
+    }
+    .xs\:w-auto {
+      width: auto;
+    }
+  }
+}
+

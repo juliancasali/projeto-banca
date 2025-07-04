@@ -1,0 +1,23 @@
+nome,email,departamento,titulacao,especialidades,disponivel
+Dra. Ana Silva,ana.silva@universidade.edu,Ciência da Computação,Doutor,Inteligência Artificial; Machine Learning; Computação Cognitiva,sim
+Dr. Carlos Oliveira,carlos.oliveira@universidade.edu,Sistemas de Informação,Doutor,Segurança da Informação; Criptografia; Redes,sim
+Profa. Mariana Santos,mariana.santos@universidade.edu,Engenharia de Software,Mestre,Desenvolvimento Web; Metodologias Ágeis; UX/UI,não
+Prof. Roberto Almeida,roberto.almeida@universidade.edu,Banco de Dados,Doutor,Modelagem de Dados; Big Data; Business Intelligence,sim
+Dra. Juliana Lima,juliana.lima@universidade.edu,Engenharia de Software,Doutor,Testes de Software; DevOps; Arquitetura de Software,sim
+Dr. Fernando Costa,fernando.costa@universidade.edu,Ciência da Computação,Doutor,Computação Gráfica; Processamento de Imagens; Realidade Virtual,sim
+Profa. Luísa Martins,luisa.martins@universidade.edu,Interação Humano-Computador,Mestre,Design de Interfaces; Usabilidade; Acessibilidade,não
+Dr. André Pereira,andre.pereira@universidade.edu,Sistemas Distribuídos,Doutor,Cloud Computing; Microserviços; Computação em Grade,sim
+Profa. Cristina Mendes,cristina.mendes@universidade.edu,Análise de Dados,Mestre,Estatística Computacional; Visualização de Dados; Mineração de Dados,sim
+Dr. Paulo Santos,paulo.santos@universidade.edu,Inteligência Artificial,Doutor,Redes Neurais; Aprendizado Profundo; Visão Computacional,sim
+Profa. Camila Oliveira,camila.oliveira@universidade.edu,Engenharia de Software,Mestre,Requisitos de Software; Qualidade de Software; Processos Ágeis,não
+Dr. Lucas Ferreira,lucas.ferreira@universidade.edu,Ciência da Computação,Doutor,Teoria da Computação; Algoritmos; Complexidade Computacional,sim
+Profa. Isabela Castro,isabela.castro@universidade.edu,Segurança da Informação,Doutor,Análise de Vulnerabilidades; Forense Digital; Auditoria de Sistemas,sim
+Prof. Gabriel Alves,gabriel.alves@universidade.edu,Jogos Digitais,Mestre,Desenvolvimento de Jogos; Game Design; Computação Gráfica para Jogos,não
+Dra. Larissa Gomes,larissa.gomes@universidade.edu,Internet das Coisas,Doutor,IoT; Sistemas Embarcados; Computação Pervasiva,sim
+Dr. Marcelo Ribeiro,marcelo.ribeiro@universidade.edu,Ciência de Dados,Doutor,Análise Preditiva; Aprendizado de Máquina; Processamento de Linguagem Natural,sim
+Profa. Bianca Lima,bianca.lima@universidade.edu,Sistemas Operacionais,Mestre,Sistemas Linux; Virtualização; Computação em Nuvem,não
+Dr. Fábio Nunes,fabio.nunes@universidade.edu,Robótica,Doutor,Robótica Móvel; Sistemas Autônomos; Inteligência Artificial para Robótica,sim
+Profa. Daniela Pereira,daniela.pereira@universidade.edu,Desenvolvimento Mobile,Mestre,Aplicativos Android; Aplicativos iOS; Flutter,sim
+Dr. Ricardo Sousa,ricardo.sousa@universidade.edu,Matemática Computacional,Doutor,Otimização; Modelagem Matemática; Computação Científica,sim
+Profa. Tatiane Martins,tatiane.martins@universidade.edu,Biotecnologia Computacional,Doutor,Bioinformática; Genômica; Modelagem Molecular,não
+Prof. Vinícius Oliveira,vinicius.oliveira@universidade.edu,Redes de Computadores,Mestre,Protocolos de Rede; Segurança de Redes; Redes Sem Fio,sim

@@ -1,0 +1,21 @@
+titulo,aluno,orientador,curso,data,status,tags
+Desenvolvimento de um Sistema de Gestão Acadêmica,Ana Silva,Professor Exemplo,Ciência da Computação,2023-12-15T14:00:00,concluida,desenvolvimento web; gestão; banco de dados
+Aplicação de Machine Learning em Diagnósticos Médicos,Carlos Oliveira,Professor Exemplo,Ciência da Computação,2023-11-28T10:00:00,concluida,IA; machine learning; saúde
+Segurança em Aplicações Web: Um Estudo de Caso,Mariana Santos,Dra. Catarina Costa,Sistemas de Informação,2025-08-07T14:23:16.229957,agendada,segurança; desenvolvimento web; análise de vulnerabilidades
+Impacto da Inteligência Artificial no Mercado de Trabalho,Roberto Almeida,Dr. Paulo Mendes,Engenharia de Software,2023-10-10T09:00:00,concluida,IA; mercado de trabalho; sociologia
+Desenvolvimento de Jogos Educativos para Dispositivos Móveis,Juliana Lima,Dr. André Sousa,Design de Games,2025-08-02T14:23:16.230682,agendada,jogos; mobile; educação
+Uso de Blockchain em Sistemas de Votação Eletrônica,Marcos Pereira,Dra. Ana Laura Costa,Ciência da Computação,2025-08-02T16:23:16.230719,agendada,blockchain; segurança; votação eletrônica
+Arquitetura de Microserviços para Plataformas E-commerce,Fernanda Oliveira,Dr. Ricardo Mendes,Engenharia de Software,2023-11-05T14:00:00,agendada,microserviços; e-commerce; arquitetura
+Técnicas de Processamento de Linguagem Natural para Chatbots,Bruno Santos,Dra. Márcia Silva,Inteligência Artificial,2025-08-02T14:23:16.230743,agendada,PLN; chatbots; IA
+Análise de Sentimento em Redes Sociais,Carla Moreira,Dr. Fábio Alves,Ciência de Dados,2025-05-31T14:23:16.230763,agendada,análise de sentimento; redes sociais; big data
+Desenvolvimento de Interfaces Acessíveis para Deficientes Visuais,Paulo Ribeiro,Dra. Luciana Ferreira,Design de Interação,2025-08-14T14:23:16.230764,agendada,acessibilidade; UX/UI; deficiência visual
+Aplicações de Internet das Coisas na Agricultura,Diego Martins,Dr. Vítor Costa,Engenharia de Computação,2023-10-25T09:30:00,concluida,IoT; agricultura; sustentabilidade
+Sistemas de Recomendação Baseados em Deep Learning,Sofia Gomes,Dr. Lucas Oliveira,Ciência da Computação,2024-03-05T11:00:00,agendada,deep learning; sistemas de recomendação; IA
+Detecção de Fraudes em Transações Financeiras,Miguel Santos,Dra. Fernanda Lima,Segurança da Informação,2023-12-08T10:00:00,concluida,segurança; fraude; finanças
+Implementação de DevOps em Pequenas Empresas,Laura Almeida,Dr. André Martins,Engenharia de Software,2024-01-25T14:30:00,agendada,DevOps; CI/CD; metodologias ágeis
+Computação Quântica Aplicada à Criptografia,Felipe Souza,Dra. Cristina Pereira,Ciência da Computação,2023-11-15T09:00:00,concluida,computação quântica; criptografia; segurança
+Desenvolvimento de Wearables para Monitoramento de Saúde,Beatriz Costa,Dr. Marcelo Silva,Engenharia Biomédica,2024-02-28T15:00:00,agendada,wearables; saúde; IoT
+Visualização de Dados para Análise de Desempenho Esportivo,Rafael Lima,Dra. Patrícia Santos,Ciência de Dados,2023-10-05T13:00:00,concluida,visualização de dados; esportes; big data
+Implementação de Realidade Aumentada em Sistemas Educacionais,Lívia Oliveira,Dr. Rogério Castro,Tecnologia Educacional,2024-03-18T10:30:00,agendada,realidade aumentada; educação; tecnologia
+Análise Preditiva para Gerenciamento de Estoque,Gabriel Pereira,Dra. Amanda Costa,Administração de Empresas,2023-09-15T14:00:00,concluida,análise preditiva; estoque; logística
+Sistemas Embarcados para Automação Residencial,Luísa Martins,Dr. Fernando Ribeiro,Engenharia Eletrônica,2024-01-10T11:30:00,agendada,sistemas embarcados; automação residencial; IoT
